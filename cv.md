@@ -10,7 +10,7 @@ __I am learning JavaScript,HTML,CSS__
 ## Code examples ## 
 __Code:__ ```alert("Hello, world!")```  
 ## Experience ##  
-__[https://github.com/Isayka12/rsschool-cv]__  
+https://isayka12.github.io/rsschool-cv/cv 
 ## Education ## 
 __Diploma Technologist; Basics courses basics computer science__  
 ## Languages ##  
