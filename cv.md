@@ -1,8 +1,19 @@
-    Egor Konin
-    gmail: e.konin2@gmail.com ; discord rs-school:Isayegor(@isayka12)
-    Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
-    I am learning JavaScript,HTML,CSS
-    Code:alert("Hello, world!")
-    https://github.com/Isayka12/rsschool-cv
-    Diploma Technologist; Basics courses basics computer science
-    English:A1
+# CV #  
+## My name ## 
+__Egor Konin__  
+## Contact ##  
+__gmail: e.konin2@gmail.com ; discord rs-school:Isayegor(@isayka12)__  
+## About me ##  
+__I'm starting to dive into the world of programming with a great passion and love for code.__  
+## Technologies ##  
+__I am learning JavaScript,HTML,CSS__  
+## Code examples ## 
+__Code:__ ```alert("Hello, world!")```  
+## Experience ##  
+__[https://github.com/Isayka12/rsschool-cv]__  
+## Education ## 
+__Diploma Technologist; Basics courses basics computer science__  
+## Languages ##  
+__English:A1__  
+__Russian__  
+__Belorussian__  
